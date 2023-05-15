@@ -1,0 +1,12 @@
+	[theme]
+
+#primary color
+	primaryColor = "#FF6000"
+
+# backgroud color for main content area
+	backgroundColor = "#191A19"
+
+
+#color used for almost all text
+	textColor = "#fff"
+
