@@ -93,7 +93,7 @@ st.write(
     """
 🚧🚧🚧
  3rd Rotation: SecOps(Security Operations/Security Logging):
-- ►Developed Splunk use cases to enhance security operations and logging.
+- ►Docker Container + Linux and Python.
 - ►Created Splunk dashboards to visualize and analyze security data effectively.
 - ►Implemented SPL searches to extract relevant information from the Splunk platform.
 - ►Fine-tuned existing use cases and searches to improve their efficiency and accuracy.
