@@ -92,8 +92,14 @@ st.write("01/2022 - Present")
 st.write(
     """
 
-
+🎩🎩🎩🎩
  4th Rotation: IAMOps(PamUnix Team):
+- ►600 Users bulk add to Highly privilege accounts using PowerShell scripting
+- ►Created Splunk report to notify the team of Service accounts that were still in active/inactive every 30 days
+- ►Managing users on standard(UNIX) and privileged hosts(PAM) from service now requests tickets. 
+- ►Processing RBAC users for each group they are assigned to and from Active Directory or CyberArk. 
+- ►Developed Python Script to automate UNIX TERMINATIONS. 
+
 🚧🚧🚧
  3rd Rotation: SecOps(Security Operations/Security Logging):
 - ►Docker Container + Linux and Python.
