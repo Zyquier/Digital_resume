@@ -15,10 +15,10 @@ PAGE_TITLE = "Digital CV | Zyquier Brownridge"
 PAGE_ICON = ":wave:"
 NAME = "Zyquier"
 DESCRIPTION = """
-As a Cyber Python Data Engineer, I specialize in using Python to create secure data solutions for 
-cybersecurity. I design custom data models and employ data visualization techniques to present complex 
-cybersecurity information in a clear and actionable way. My objective is to support businesses in making 
-informed decisions by providing secure data engineering solutions.
+I am A dynamic learner with a passion for safeguarding systems through strategic and technical expertise in cybersecurity practices. 
+Proficient in leveraging cloud technologies and automation tools to enhance security postures and resolve technical issues in data protection technologies. 
+Demonstrated ability to collaborate effectively with various IT teams, ensuring the continuous innovation and implementation of robust security capabilities. 
+Committed to contributing a hands-on and strategic approach to fortify and elevate cybersecurity defenses in any organizational setting.
 """
 
 SOCIAL_MEDIA = {
