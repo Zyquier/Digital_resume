@@ -15,10 +15,7 @@ PAGE_TITLE = "Digital CV | Zyquier Brownridge"
 PAGE_ICON = ":wave:"
 NAME = "Zyquier"
 DESCRIPTION = """
-I am A dynamic learner with a passion for safeguarding systems through strategic and technical expertise in cybersecurity practices. 
-Proficient in leveraging cloud technologies and automation tools to enhance security postures and resolve technical issues in data protection technologies. 
-Demonstrated ability to collaborate effectively with various IT teams, ensuring the continuous innovation and implementation of robust security capabilities. 
-Committed to contributing a hands-on and strategic approach to fortify and elevate cybersecurity defenses in any organizational setting.
+Solution-oriented and problem solver with 3 years of experience in Cyber Security while using software development skills for solving complex problems as well. Highly skilled in communication, collaboration, and technical documentation.
 """
 
 SOCIAL_MEDIA = {
@@ -64,21 +61,6 @@ st.write('\n')
 cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
-
-
-
-
-# --- SKILLS ---
-st.write('\n')
-st.subheader("Hard Skills")
-st.write(
-    """
-- 🥇 I hold a Bachelor's Degree in Computer Science, with a minor in Mathematics, focusing on Information Security. 
-- 🧑‍💻 Programming:Python (Python scripting for automation),HTML web development and SQL querying for data extraction.
-- 📊 Splunk Visulization:Splunk use cases Development and Tuning,SPL (Search Processing Language) searches in Splunk,Creation and merging of Splunk dashboards.
-- 📚 Data Modeling: Proficient in Data analysis and Proficient in designing and implementing data models for various applications and systems.
-"""
-)
 
 
 # --- WORK HISTORY ---
