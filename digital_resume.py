@@ -134,7 +134,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("🎯", "**Cloud Security Intern | Lenovo**")
-st.write("05/2021 - 07/2021")
+st.write("05/2021 - 10/2021")
 st.write(
     """
 - ►Conducted Vulnerability Analysis to identify potential security weaknesses.
@@ -151,7 +151,7 @@ st.write(
 # --- JOB 3
 st.write('\n')
 st.write("⚓", "**Software Engineer Intern | Science Gateways Community Institute**")
-st.write("05/2020 - 07/2020")
+st.write("05/2020 - 10/2020")
 st.write(
     """
 - ►Completed certifications in High-Performance Computing using Python and Responsible Conduct of ----Research Investigators and Key Personnel at a competitive coding institute.
