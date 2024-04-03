@@ -86,9 +86,21 @@ st.write('\n')
 st.subheader("Work History")
 st.write("---")
 
+# --- JOB 4
+st.write('\n')
+st.write("🎯", "**Security Engineer Consultant | CDW**")
+st.write("01/2024 - present")
+st.write(
+    """
+- ►Strategize and assist in the development of IAM solutions
+- ►Establishes trust with the customers in order to becomes a trusted advisor clients for IAM-related services.
+- ►Deploying SailPoint IIQ and adding users following full Identity Life cycle management provision plan.
+"""
+)
+
 # --- JOB 1
 st.write("🏴‍☠️", "**Security Engineer(TA) | TIAA**")
-st.write("01/2022 - Present")
+st.write("01/2022 - 1-2024")
 st.write(
     """
 
