@@ -75,7 +75,7 @@ st.write("01/2024 - present")
 st.write(
     """
 - ►Strategize and assist in the development of IAM solutions
-- ►Establishes trust with the customers in order to becomes a trusted advisor clients for IAM-related services.
+- ►Establishes trust with customers in order to become a trusted advisor client for IAM-related services.
 - ►Deploying SailPoint IIQ and adding users following full Identity Life cycle management provision plan.
 """
 )
