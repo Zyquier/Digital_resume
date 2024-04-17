@@ -77,6 +77,10 @@ st.write(
 - ►Strategize and assist in the development of IAM solutions
 - ►Establishes trust with customers in order to become a trusted advisor client for IAM-related services.
 - ►Deploying SailPoint IIQ and adding users following full Identity Life cycle management provision plan.
+- ►Developing custom Beanshell and Java scripts for Rules.
+- ►Implementing policies for RBAC.
+- ►Developing Custom Workflows for client needs.
+- ►Implementing Users with RAPID-7 Joiner , Mover and Leaver Workflows.
 """
 )
 
