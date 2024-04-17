@@ -6,7 +6,7 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "Zyquier_Brownridge.pdf"
+resume_file = current_dir / "assets" / "Zyquier_Brownridge_resume_IAM.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Zyquier Brownridge"
 PAGE_ICON = ":wave:"
 NAME = "Zyquier"
 DESCRIPTION = """
-Solution-oriented and problem solver with 3 years of experience in Cyber Security while using software development skills for solving complex problems as well. Highly skilled in communication, collaboration, and technical documentation.
+Solution-oriented and problem solver with 4 years of experience in Cyber Security while using software development skills for solving complex problems as well. Highly skilled in communication, collaboration, and technical documentation.
 """
 
 SOCIAL_MEDIA = {
